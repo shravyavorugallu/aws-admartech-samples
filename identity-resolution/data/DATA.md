@@ -12,5 +12,5 @@
 - http://s3.amazonaws.com/aws-admartech-samples/identity-resolution/data/website_group_nodes.csv
 - http://s3.amazonaws.com/aws-admartech-samples/identity-resolution/data/websites.csv
 - https://graphproject.s3.ap-northeast-1.amazonaws.com/persistent_nodes.csv
-- https://graphproject.s3.ap-northeast-1.amazonaws.com/transient_nodes.csv
+- https://graphproject.s3.ap-northeast-1.amazonaws.com/transient_nodes(booking_data).csv
 - https://graphproject.s3.ap-northeast-1.amazonaws.com/ip_nodes.csv
